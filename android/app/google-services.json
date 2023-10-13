@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "899544101639",
+    "project_id": "fir-login-23cc8",
+    "storage_bucket": "fir-login-23cc8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:899544101639:android:dc2c5d177e67d0bf1ecba2",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_fire_base_and_loging_and_sign_up_page"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkN1UMMr3vI_vWUkNU9zlDULHuHMlS3no"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
